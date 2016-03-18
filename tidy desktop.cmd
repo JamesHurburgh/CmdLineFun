@@ -1,0 +1,20 @@
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.docx /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.doc /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.xlsx /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.xls /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.vsd /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.vsdx /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.pdf /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.pub /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.xps /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.txt /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.xml /MOV
+robocopy %UserProfile%\Desktop\ %UserProfile%\Documents\ *.csv /MOV
+ 
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.bmp /MOV
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.png /MOV
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.jpg /MOV
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.JPG /MOV
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.jpeg /MOV
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.gif /MOV
+robocopy %UserProfile%\Desktop\ D:\Photos\desktopPics\ *.ico /MOV
